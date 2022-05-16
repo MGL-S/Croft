@@ -6,8 +6,8 @@ import requests
 import config
 import pickle
 import io
-import torch
-from torchvision import transforms
+#import torch
+#from torchvision import transforms
 # ==============================================================================================
 
 # -------------------------LOADING THE TRAINED MODELS -----------------------------------------------
