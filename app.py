@@ -14,7 +14,7 @@ import io
 
 # Loading crop recommendation model
 
-crop_recommendation_model_path = 'model/RandomForest.pkl'
+crop_recommendation_model_path = 'Model/RandomForest.pkl'
 crop_recommendation_model = pickle.load(
     open(crop_recommendation_model_path, 'rb'))
 
